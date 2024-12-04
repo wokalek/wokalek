@@ -24,8 +24,8 @@ importers:
         specifier: 3.2.4
         version: 3.2.4
       '@nuxtjs/fontaine':
-        specifier: 0.4.3
-        version: 0.4.3(magicast@0.3.5)(rollup@4.24.3)
+        specifier: 0.4.4
+        version: 0.4.4(magicast@0.3.5)(rollup@4.24.3)
       '@nuxtjs/mdc':
         specifier: 0.9.2
         version: 0.9.2(magicast@0.3.5)(rollup@4.24.3)
@@ -1520,8 +1520,8 @@ packages:
   '@nuxtjs/device@3.2.4':
     resolution: {integrity: sha512-jIvN6QeodBNrUrL/1FCHk4bebsiLsGHlJd8c/m2ksLrGY4IZ0npA8IYhDTdYV92epGxoe8+3iZOzCjav+6TshQ==}
 
-  '@nuxtjs/fontaine@0.4.3':
-    resolution: {integrity: sha512-2bERBEzJgyKSjUGnQoj4kEFiAQErrG9rpBqzVLVMNTB59Fmep/j77CqT7j7yIKKfsr2W+n5nC7WPjp2bHi994Q==}
+  '@nuxtjs/fontaine@0.4.4':
+    resolution: {integrity: sha512-sC2xsqtFzXDN72fGJc9NxoC+WymJgiVGVL7V/yksUruOqeKhnsmnqx1nXlu88cnt/K9IQADGpOzgvhIjg+G+mg==}
 
   '@nuxtjs/mdc@0.9.2':
     resolution: {integrity: sha512-dozIPTPjEYu8jChHNCICZP3mN0sFC6l3aLxTkgv/DAr1EI8jqqqoSZKevzuiHUWGNTguS70+fLcztCwrzWdoYA==}
@@ -7882,7 +7882,7 @@ snapshots:
     dependencies:
       defu: 6.1.4
 
-  '@nuxtjs/fontaine@0.4.3(magicast@0.3.5)(rollup@4.24.3)':
+  '@nuxtjs/fontaine@0.4.4(magicast@0.3.5)(rollup@4.24.3)':
     dependencies:
       '@nuxt/kit': 3.13.2(magicast@0.3.5)(rollup@4.24.3)
       fontaine: 0.5.0
